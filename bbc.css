@@ -1,0 +1,294 @@
+#topbar{
+
+    width: 1000px;
+    margin: 0 auto;
+    height: 40;
+    
+}
+
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#logo{
+
+    width: 100px;
+    margin-top: 6px;
+    float: left;
+    margin-right: 8px;
+    padding-right: 15px;
+
+}
+
+.topbar-section{
+
+    float: left;
+    border-left: 1px #cccccc solid;
+    height: 100%;
+    
+}
+
+#login-logo{
+
+    width: 25px;
+    margin: 10px 15px;
+    float: left;
+
+}
+
+#signin-text{
+
+    margin-top: 14px;
+    float: right;
+    font-weight: bold;
+    padding-right: 15px;
+
+}
+
+#home-text{
+
+    font-weight: bold;
+    margin-left: 10px ;
+    margin-right: 10px ;
+    margin-top: 14px;
+    
+}
+
+
+.topbar-menu{
+
+    font-weight: bold;
+    padding:  14px 15px;
+    height: 12px;
+
+}
+
+#more-arrow{
+
+    width: 16px;
+    margin-left: 18px;
+    float: right;
+    
+}
+
+.more-menu{
+
+    padding-top: 13px;
+    
+
+}
+
+#search-box{
+
+    background-color: #E4E4E4;
+    border:none;
+    font-weight: bold;
+    font-size: 13px;
+    padding: 4px;
+    margin: 10px 0px 10px 10px;
+    float: left;
+
+}
+
+#search-icon{
+
+    height: 23px;
+    margin-top: 10px;
+    background-color: #E4E4E4;
+}
+
+.clear{
+
+    clear: both;
+
+}
+
+#menu-bar-container{
+
+    background-color: #bb1919;
+    width: 100%;
+    height: 70px;
+
+}
+
+#menu-bar{
+
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+h1{
+
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-size: 40px;
+    font-weight: normal;
+    padding-top: 13px;
+    float: left;
+}
+
+#menu-bar-2-container{
+
+    background-color: #A91717;
+    width: 100%;
+
+
+}
+
+.menu-bar-2{
+
+    width: 1000px;
+    height: 40px;
+    margin: 0 auto;
+
+}
+
+.menu-bar-2 a {
+
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+    border-right: 1px solid #BB4545;
+    font-size: 16px;
+    position: relative;
+    top: 11px;
+
+}
+
+.menu-bar-2 a:hover {
+
+    text-decoration: underline;
+
+}
+
+.no-border-class {
+
+    border: none !important;
+
+}
+
+#page-conatiner{
+
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+h2 {
+
+    font-weight: normal;
+    margin-top: 40px;
+    font-size: 20px;
+    border-bottom: 3px solid #A91717;
+    width: 102px;
+
+}
+
+h3 a{
+
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+
+}
+
+h3 a:hover{
+
+    color: #1167a8
+}
+
+#main-article{
+
+    padding-left: 25px;
+    float: left;
+
+}
+
+#article-summary{
+
+    color: #5a5a5a;
+    width: 250px;
+    float: left;
+
+}
+
+#article-summary a{
+
+    text-decoration: none;
+    color: #A91717;
+
+}
+
+#article-summary a:hover{
+
+    color: #1167a8;
+
+}
+
+#article-container{
+
+    float: left;
+    width: 780px;
+    border-right: 1px solid #cccccc;   
+    padding-right: 70px;             
+
+}
+
+#asda-img{
+
+    width: 500px;
+    margin-left: 20px;
+
+}
+
+#article-hr{
+
+    border-top: 2px solid #A91717;
+    width: 50px;
+
+}
+
+#watch-listen{
+
+    margin-left: 20px;
+    width: 280px;
+    float: right;
+    padding: 80px;
+    
+}
+
+#watch-listen h3{
+
+    font-weight: 20px;
+    font-size: 20px;
+
+}
+
+#watch-img{
+
+    width: 80px;
+    margin-right: 10px;
+    float: left;
+    
+}
+
+.watch-listen-link{
+
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.watch-listen-link:hover{
+
+    color: #1167a8;
+
+}
